@@ -10,7 +10,7 @@ Calories Management System
 
 Клендарный план проекта
 ===============================
-### 04.02: 1-е занятие
+### 04.02
 - Разбор домашнего задания вступительного занятия (вместе с Optional)
 - Обзор используемых в проекте технологий. Интеграция ПО
 - Maven
@@ -19,7 +19,7 @@ Calories Management System
 - Уровни и зависимости логгирования. JMX
 - Домашнее задание 1-го занятия (HW1 + Optional)
 
-### 11.02: 2-е занятие
+### 11.02
 - Разбор домашнего задания HW1 + Optional
 - Библиотека vs Фреймворк. Стандартные библиотеки Apache Commons, Guava
 - Слои приложения. Создание каркаса приложения
@@ -27,7 +27,7 @@ Calories Management System
 - Пояснения к HW2. Обработка Autowired
 - Домашнее задание (HW2 + Optional)
 
-### 18.02: 3-е занятие
+### 18.02
 - Разбор домашнего задания HW2 + Optional
 - Жизненный цикл Spring контекста
 - Тестирование через JUnit
@@ -39,7 +39,7 @@ Calories Management System
 - Логирование тестов
 - Домашнее задание (HW3 + Optional)
 
-### 25.02: 4-е занятие
+### 25.02
 - Разбор домашнего задания HW3 + Optional
 - Методы улучшения качества кода
 - Spring: инициализация и популирование DB
@@ -49,7 +49,7 @@ Calories Management System
 - Домашнее задание (HW4 + Optional)
 #### Начало выполнения выпускного проекта
 
-### 04.03: 5-е занятие
+### 04.03
 - Обзор JDK 9/11. Миграция Topjava с 1.8 на 11
 - Разбор вопросов
 - Разбор домашнего задания HW4 + Optional
@@ -60,7 +60,7 @@ Calories Management System
 - Spring кэш
 - Домашнее задание (HW5 + Optional)
 
-### 11.03: 6-е занятие
+### 11.03
 - Разбор домашнего задания HW5 + Optional
 - Кэш Hibernate
 - Spring Web
@@ -73,7 +73,7 @@ Calories Management System
 
 #### Большое ДЗ + выпускной проект + подтягиваем "хвосты".
 
-### 25.03: 7-е занятие
+### 25.03
 - Разбор домашнего задания HW6 + Optional
 - Автогенерация DDL по модели
 - Тестирование Spring MVC
@@ -84,7 +84,7 @@ Calories Management System
 - Тестирование через SoapUi. UTF-8
 - Домашнее задание (HW7 + Optional)
 
-### 01.04: 8-е занятие
+### 01.04
 - Разбор домашнего задания HW7 + Optional
 - WebJars. jQuery и JavaScript frameworks
 - Bootstrap
@@ -93,7 +93,7 @@ Calories Management System
 - Добавление Spring Security
 - Домашнее задание (HW8 + Optional)
 
-### 08.04: 9-е занятие
+### 08.04
 - Разбор домашнего задания HW8 + Optional
 - Spring Binding
 - Spring Validation
@@ -105,7 +105,7 @@ Calories Management System
 - Cookie. Session
 - Домашнее задание (HW9 + Optional)
 
-### 15.04: 10-е занятие
+### 15.04
 - Разбор домашнего задания HW10 + Optional
 - Кастомизация JSON (@JsonView) и валидации (groups)
 - Рефакторинг: jQuery конверторы и группы валидации по умолчанию
@@ -118,7 +118,7 @@ Calories Management System
 - Защита от межсайтовой подделки запросов (CSRF)
 - Домашнее задание (HW10)
 
-### 22.04: 11-е занятие
+### 22.04
 - Разбор домашнего задания HW10 + Optional
 - Локализация datatables, ошибок валидации
 - Защита от XSS (Cross Site Scripting)
@@ -127,7 +127,7 @@ Calories Management System
 - Ограничение модификации пользователей
 - Деплой [приложения в Heroku](http://calories-management-system.herokuapp.com)
 
-### 29.04: Миграция на Spring-Boot
+### 29.04
 - Основы Spring Boot. Spring Boot maven plugin
 - Lombok, база H2, ApplicationRunner
 - Spring Data REST + HATEOAS
