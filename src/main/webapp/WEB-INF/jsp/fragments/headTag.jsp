@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="webjars/datatables/1.10.24/css/dataTables.bootstrap4.min.css">
     <link rel="stylesheet" href="webjars/noty/3.1.4/lib/noty.css"/>
     <link rel="stylesheet" href="webjars/datetimepicker/2.5.20-1/jquery.datetimepicker.css">
+    <link rel="shortcut icon" href="resources/images/icon-meal.png">
 
     <%--http://stackoverflow.com/a/24070373/548473--%>
     <script src="webjars/jquery/3.6.0/jquery.min.js"></script>
