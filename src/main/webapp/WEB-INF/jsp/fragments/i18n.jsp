@@ -4,11 +4,11 @@
 
 <script type="text/javascript">
     var i18n = [];
-    <%-- user.add/user.edit or meal.add/meal.edit --%>
     i18n["addTitle"] = '<spring:message code="${param.page}.add"/>';
     i18n["editTitle"] = '<spring:message code="${param.page}.edit"/>';
 
-    <c:forEach var='key' items='<%=new String[]{"common.deleted", "common.saved", "common.enabled", "common.disabled", "common.search", "common.info", "common.confirm"}%>'>
+    <c:forEach var='key' items='<%=new String[]{"common.deleted", "common.saved", "common.enabled", "common.disabled", "common.search", "common.info", "common.confirm",
+                                                "common.infoEmpty", "common.infoFiltered", "common.loadingRecords", "common.processing", "common.zeroRecords", "common.emptyTable"}%>'>
     i18n['${key}'] = '<spring:message code="${key}"/>';
     </c:forEach>
 </script>

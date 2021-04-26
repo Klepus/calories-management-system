@@ -13,7 +13,13 @@ function makeEditable(datatableOpts) {
                 "info": true,
                 "language": {
                     "search": i18n["common.search"],
-                    "info": i18n["common.info"]
+                    "info": i18n["common.info"],
+                    "infoEmpty": i18n["common.infoEmpty"],
+                    "infoFiltered": i18n["common.infoFiltered"],
+                    "loadingRecords": i18n["common.loadingRecords"],
+                    "processing": i18n["common.processing"],
+                    "zeroRecords": i18n["common.zeroRecords"],
+                    "emptyTable": i18n["common.emptyTable"]
                 }
             }
         ));

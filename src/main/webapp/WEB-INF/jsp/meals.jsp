@@ -11,9 +11,10 @@
 
 <div class="jumbotron pt-4">
     <div class="container">
-        <h3 class="text-center"><spring:message code="meal.title"/></h3>
+<%--        <h3 class="text-center pt-1 py-3"><spring:message code="meal.title"/></h3>--%>
         <%--https://getbootstrap.com/docs/4.0/components/card/--%>
         <div class="card border-dark">
+            <h3 class="text-center pt-2 py-3"><spring:message code="meal.title"/></h3>
             <div class="card-body pb-0">
                 <form id="filter">
                     <div class="row">
