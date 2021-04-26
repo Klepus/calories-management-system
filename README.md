@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4a73a7e7bbe64dcebe2924479fcbbc8c)](https://www.codacy.com/gh/Klepus/calories-management-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Klepus/calories-management-system&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.com/Klepus/calories-management-system.svg?token=u8QDnsUxbWrsqz3MMQzQ&branch=master)](https://travis-ci.com/Klepus/calories-management-system)
 
 Calories Management System
