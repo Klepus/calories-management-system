@@ -5,7 +5,8 @@
 
 <nav class="navbar navbar-expand-md navbar navbar-dark bg-primary py-0">
     <div class="container">
-        <a href="meals" class="navbar-brand mb-0 h1"> <spring:message code="app.title"/></a>
+        <a href="meals" class="navbar-brand mb-0 h1">
+            <a href="meals" class="navbar-brand na"><spring:message code="app.title"/></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
