@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Klepus/calories-management-system.svg?token=u8QDnsUxbWrsqz3MMQzQ&branch=master)](https://travis-ci.com/Klepus/calories-management-system)
+
 Calories Management System
 ===============================
 
