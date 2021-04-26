@@ -4,5 +4,6 @@
 <footer class="footer">
     <div class="container">
         <span class="text-muted"><spring:message code="app.footer"/></span>
+        <span class="text- text-secondary">2021</span>
     </div>
 </footer>

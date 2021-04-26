@@ -11,7 +11,7 @@
 <div class="jumbotron py-0">
     <div class="container">
         <c:if test="${param.error}">
-            <div class="error">${sessionScope["SPRING_SECURITY_LAST_EXCEPTION"].message}</div>
+            <div class="error"><spring:message code="security.badCredentials"/></div>
         </c:if>
         <c:if test="${not empty param.message}">
             <div class="message"><spring:message code="${param.message}" text=""/></div>
