@@ -15,7 +15,7 @@
 >`curl -s http://localhost:8080/topjava/rest/profile --user test@mail.ru:test-password`
 
 #### Get All Meals (GET):
-`curl -s http://localhost:8080/topjava/rest/profile/meals --user user@yandex.ru:password`
+>`curl -s http://localhost:8080/topjava/rest/profile/meals --user user@yandex.ru:password`
 
 #### Get Meal by id (GET):
 >`curl -s http://localhost:8080/topjava/rest/profile/meals/100003  --user user@yandex.ru:password`
